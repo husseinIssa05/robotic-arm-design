@@ -17,10 +17,23 @@ The robotic arm was designed as part of a multidisciplinary project integrating:
 - Electronics
 - Embedded Systems (ESP32)
 - Web-Based Control
-- Inverse Kinematics
 - IoT Communication
 
-My primary responsibility was the complete mechanical design of the robotic arm.
+## My Contribution
+
+This project was completed as part of a multidisciplinary university team. My role focused exclusively on the **mechanical design** of the robotic arm.
+
+My responsibilities included:
+
+- Defining the mechanical architecture
+- CAD modeling of all structural components in SolidWorks
+- Assembly design
+- Servo selection and integration
+- Link length optimization
+- Center of mass and payload analysis
+- Mechanical validation and design iterations
+
+The electronics, embedded programming, and web interface were developed by my teammates.
 
 ---
 
