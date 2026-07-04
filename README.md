@@ -99,7 +99,7 @@ robotic-arm-design
 │   └── Robotic_Arm_Report.pdf
 │
 ├── cad
-│   ├── Assembly.SLDASM
+│   ├── Final_Assembly.zip
 │
 ├── images
 │   ├── assembled.png
