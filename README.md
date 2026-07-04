@@ -108,8 +108,6 @@ The project followed an iterative engineering workflow:
 ```
 robotic-arm-design
 │
-├── report
-│   └── Robotic_Arm_Report.pdf
 │
 ├── cad
 │   ├── Final_Assembly.zip
